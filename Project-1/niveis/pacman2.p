@@ -1,0 +1,9 @@
+PASSO 0
+POS 1 1
+W
+G
+D
+D
+D
+D
+
