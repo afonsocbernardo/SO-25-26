@@ -1,0 +1,6 @@
+PASSO 2
+POS 5 5
+D
+C
+A
+C
